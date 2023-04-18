@@ -1,0 +1,132 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/Hiteash/OneDrive/Desktop/index.html
+Subject: Assignment Solution for Module 2
+Date: Tue, 18 Apr 2023 11:52:35 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--nHVHVrWpIAgTjuVbLEUXoeTt8InewMkwq9Z2S5jhtw----"
+
+
+------MultipartBoundary--nHVHVrWpIAgTjuVbLEUXoeTt8InewMkwq9Z2S5jhtw----
+Content-Type: text/html
+Content-ID: <frame-A753F6536601F19FFA50EDE2E2871979@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Hiteash/OneDrive/Desktop/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+=09
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+">
+	<title> Assignment Solution for Module 2</title>
+	<link rel=3D"stylesheet" type=3D"text/css" href=3D"file:///C:/Users/Hiteas=
+h/OneDrive/Desktop/css.css">
+</head>
+<body>
+=09
+		<h3> Our Menu</h3>
+		<section class=3D"column-lg-4 column-md-6 column-sm-12 ">
+			<div>
+				<p class=3D"card1"> Chicken</p>
+				<p class=3D"content"> Lorem ipsum dolor sit amet, consectetur adipisici=
+ng elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ve=
+niam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit es=
+se
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat=
+at non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum=
+.</p>
+			</div>
+		</section>=09
+		<section class=3D"column-lg-4 column-md-6 column-sm-12 ">
+			<div>
+				<p class=3D"card2"> Beef</p>
+				<p class=3D"content"> Lorem ipsum dolor sit amet, consectetur adipisici=
+ng elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ve=
+niam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit es=
+se
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat=
+at non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum=
+.</p>
+			</div>
+		</section>=09
+		<section class=3D"column-lg-4 column-md-6 column-sm-12 ">
+			<div>
+				<p class=3D"card3"> Sushi</p>
+				<p class=3D"content"> Lorem ipsum dolor sit amet, consectetur adipisici=
+ng elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim ve=
+niam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit es=
+se
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidat=
+at non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum=
+.</p>
+			</div>
+		</section>=09
+
+
+</body></html>
+------MultipartBoundary--nHVHVrWpIAgTjuVbLEUXoeTt8InewMkwq9Z2S5jhtw----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/Hiteash/OneDrive/Desktop/css.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { background-color: white; }
+
+h3 { margin-bottom: 15px; text-align: center; font-size: 50px; }
+
+section { position: relative; padding: 15px; width: 90%; }
+
+p { position: relative; clear: right; }
+
+div { position: relative; background-color: gray; border: 3.5px solid black=
+; width: 100%; margin-left: auto; margin-right: auto; margin-bottom: auto; =
+}
+
+.card1 { float: right; width: 100px; padding: 5px; margin: -3px -3px 0px; b=
+order: 3.5px solid black; text-align: center; font-size: 125%; font-weight:=
+ bold; background-color: rgb(255, 182, 193); }
+
+.card2 { float: right; color: white; width: 100px; padding: 5px; margin: -3=
+px -3px 0px; border: 3.5px solid black; text-align: center; font-size: 125%=
+; font-weight: bold; background-color: rgb(255, 0, 0); }
+
+.card3 { color: black; float: right; width: 100px; padding: 5px; margin: -3=
+px -3px 0px; border: 3.5px solid black; text-align: center; font-size: 125%=
+; font-weight: bold; background-color: rgb(223, 212, 121); }
+
+.content { padding: 5px; border: none; background-color: gray; color: black=
+; margin: 3px; height: 150px; overflow: auto; }
+
+.row { width: 90%; }
+
+@media (min-width: 992px) {
+  .column-lg-4 { float: left; width: 33.33%; }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .colmn-md-6 { float: left; width: 50%; margin-left: auto; margin-right: a=
+uto; }
+  .colmn-md-12 { float: left; width: 100%; margin-left: auto; margin-right:=
+ auto; }
+}
+
+@media (max-width: 767px) {
+  .colmn-sm-12 { float: left; width: 100%; }
+}
+------MultipartBoundary--nHVHVrWpIAgTjuVbLEUXoeTt8InewMkwq9Z2S5jhtw------
